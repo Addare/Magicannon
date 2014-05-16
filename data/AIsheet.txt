@@ -1,0 +1,35 @@
+Type
+1
+
+10 8 2 5
+
+
+
+Type
+2
+
+4 8 10 1
+
+
+Type
+3
+
+5 3 1 6
+
+
+
+
+
+
+
+
+//mall
+Type
+[nr]
+
+[göra inget] [röra sig] [attakera närstrid] [attakera projektil]
+
+(fler prioriteter kan läggas till i framtiden)
+(ju lägre nummer, destå större chans, men endast i förhållande till varandra)
+
+//////HELT UTDATERAD///////////

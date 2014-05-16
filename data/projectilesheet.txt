@@ -1,0 +1,115 @@
+
+Fireball
+4
+400
+0
+1
+fireball
+spell_fire.bmp
+101
+
+
+TestAOEturn
+4
+400
+0
+1
+testaoeturn
+spell_fire.bmp
+101
+
+Testchain
+4
+400
+0
+1
+testchainspell
+spell_fire.bmp
+101
+
+Testchain2
+4
+400
+0
+1
+testchainproj
+spell_fire.bmp
+101
+
+
+
+
+
+
+
+
+
+
+
+Magic burs
+
+3
+0
+0
+54
+0
+none
+spell1.bmp
+
+Magic missil
+
+1
+4
+400
+20
+0
+none
+spell2.bmp
+
+Slime shots
+
+1
+4
+400
+20
+0
+none
+slimeshot.bmp
+
+Slime shot boss
+
+-2
+6
+400
+20
+0
+none
+slimeshotboss.bmp
+
+
+
+{[SHEET]}
+
+[namn]
+
+[speed]
+[max distance]
+[piercing]
+[hit on contact]
+[spell]
+[spritesheet]
+[actionsequence]
+
+
+
+
+
+[skada]
+[hastighet]
+[längsta flygavstånd]
+[längden en projektil är kvar] (efter att den har träffat, räknat i frames)
+[om den stannar efter en träff] (oimplementerad funktion)
+"status" (om den orsakar någon statuseffekt)
+"spritesheet"
+
+

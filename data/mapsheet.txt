@@ -1,0 +1,358 @@
+
+Map 2
+
+1 
+awesomebackground.bmp
+
+
+0F 0F 0S 0T 0T 0T 0T 0T 0T 0Y 0F 0F 0F 0F 0F 0F
+0O 0K 0T 0T 0T 0T 0T 0T 0T 0D 0R 0R 0T 0T 0T 0T
+0L 0L 0L 0L 0L 0L 0L 0L 0L 0L 0L 0L 0L 0K 0S 0S
+0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H
+0A 0B 0C 0D 0E 0F 0G 0H 0I 0J 0K 0L 0M 0N 0O 0P
+0Q 0R 0S 0T 0U 0V 0W 0X 0Y 0Z 0T 0T 0T 0T 0T 0T
+0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H
+0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H
+0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S
+0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S
+0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S
+0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H
+
+
+VALGDIGT_TEMPORAR_SPRITE
+
+
+Map 28
+
+2
+forestgrass1.bmp
+forestgrass2.bmp
+
+
+0F 0F 0S 0T 0T 0T 0T 0T 0T 0Y 0F 0F 0F 0F 0F 0F
+0O 0K 0T 0T 0T 0T 0T 0T 0T 0D 0R 0R 0T 0T 0T 0T
+0L 0L 0L 0L 0L 0L 0L 0L 0L 0L 0L 0L 0L 0K 0S 0S
+0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H
+0L 0L 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T
+0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T 0T
+0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H
+0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H
+0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S
+0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S
+0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S 0S
+0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H 0H
+
+3
+rock1 200 100 0 0
+rock2 100 100 0 0
+rock1 40 40 0 0
+
+1
+normal_slime
+enemy_slime.bmp
+3 1 360 240
+
+1
+shooter_slime
+enemy_slime_2.bmp
+-1 1 400 320
+
+
+
+
+
+Map 1
+
+map_1.bmp
+map_1_o.bmp
+2 1 1 1
+
+0
+
+0
+
+F F F F F F 0 0 F F F F F F F F
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 F F F F F F F F
+0 0 0 0 0 0 0 0 F F F F F F F F
+0 0 F 0 0 0 0 0 F F F F F F F F
+0 0 0 0 0 0 0 2 C 4 4 0 F F F F
+0 2 8 0 0 0 0 0 1 1 1 0 0 0 0 0
+0 0 0 F 0 0 0 0 0 0 0 0 0 0 0 0
+C 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+1
+A
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Map 2
+
+map_2.bmp
+map_2_o.bmp
+2 3 1 4
+
+1
+normal_slime
+enemy_slime.bmp
+3 1 360 240
+
+1
+shooter_slime
+enemy_slime_2.bmp
+-1 1 400 320
+
+F F F F F F F F F F F F F F F F
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 F
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 F F 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 F 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 F 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 F 0 0 0 0 0 0 0 0 0 0 F
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 F
+F F F F F F 0 0 F F F F F F F F
+
+1
+A
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Map 3
+
+map_3.bmp
+map_3_o.bmp
+3 5 3 2
+
+5
+normal_slime
+enemy_slime.bmp
+4 1 560 180
+
+normal_slime
+enemy_slime.bmp
+5 1 560 100
+
+shooter_slime
+enemy_slime_2.bmp
+6 1 560 240
+
+shooter_slime
+enemy_slime_2.bmp
+7 1 560 300
+
+normal_slime
+enemy_slime.bmp
+8 1 560 520
+
+0
+
+F F F F F F F F F F F F F F F F
+F 0 0 0 0 0 0 0 0 0 0 F 0 0 0 F
+0 0 0 0 0 0 0 0 0 0 0 F 0 F 0 F
+0 0 0 0 0 0 0 0 0 0 0 0 0 F 0 F
+0 0 0 0 0 F F F 0 0 0 0 0 F 0 F
+0 0 0 0 0 0 0 0 0 0 0 0 0 F 0 F
+0 0 0 0 0 0 0 0 0 0 0 0 0 F 0 F
+0 0 0 0 0 0 0 0 0 F F 0 0 F 0 F
+0 0 0 0 0 0 0 0 0 0 0 0 0 F 0 F
+F 0 0 0 F F 0 0 0 0 0 0 0 F 0 F
+F 0 0 0 0 0 0 0 0 0 0 0 0 F 0 0
+F F F F F F F F F F F F F F F F
+
+1
+A
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+
+Map 4
+
+map_4.bmp
+map_4_o.bmp
+4 2 4 4
+
+1
+normal_slime
+enemy_slime_2.bmp
+9 1 80 240
+
+0
+
+F F F F F F F F F F F F F F F F
+F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+F 0 0 0 0 F 0 0 0 0 F 0 0 0 0 0
+F 0 0 0 0 F 0 0 0 0 F 0 0 0 0 0
+F 0 0 0 F F 0 0 0 0 F 0 0 0 0 0
+F 0 0 0 F 0 0 0 0 0 0 0 0 0 0 0
+F F F F F 0 0 0 0 0 0 0 0 0 0 0
+F F F F F 0 0 0 0 0 0 0 0 0 0 0
+F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+F F F F F F F F F F F F F F F F
+
+1
+A
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+Map 5
+
+map_5.bmp
+map_5_o.bmp
+5 5 5 3
+
+1
+boss_slime
+enemy_slime_3.bmp
+10 3 320 160
+
+0
+
+F F F F F F F F F F F F F F F F
+F F 0 0 0 0 0 0 0 0 0 0 0 0 0 F
+F F 0 0 0 F F F F F F F 0 0 0 F
+F F 0 0 0 F 0 0 0 0 0 F 0 0 0 F
+F F 0 0 0 F 0 0 0 0 0 F 0 0 0 F
+F F 0 0 0 F 0 0 0 0 0 F 0 0 0 F
+F F 0 0 0 F F F 0 F F F 0 0 0 F
+F F 0 0 0 0 0 0 0 0 0 0 0 0 0 F
+F F 0 0 0 0 0 0 0 0 0 0 0 0 0 F
+F F 0 0 0 0 0 0 0 0 0 0 0 0 0 F
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 F
+F F F F F F F F F F F F F F F F
+
+1
+A
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+
+
+
+
+
+
+
+//mall
+Map [nr]
+"bakgrund"
+"förgrund"
+[karta upp] [karta höger] [karta ner] [karta vänster]
+
+[antal fiender]
+"namn"
+[fiende id](måste vara unik!) [AI-typ] [x-position] [y-position]  
+
+(repetera för varje fiende, med ett mellanrum mellan varje)
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0	(ställena du kan och inte kan gå på på kartan)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0	(F=helt blockerat, 0= helt fritt)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0	(upp=1, höger=2, ner=4, vänster=8)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0	(addera ihop för att skapa hinder mellan 2 rutor,
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0	istället för att blocka en hel ruta)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0	(använd A-E (f är helt blockerat) för tal över 9)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+[antal globala triggers]
+"vilka triggers"(char)
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0	(Charmärkta marktriggers)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+//UTDATERAD, men man kan fortfarande ladda in mappen//
+
+
+
+
+//ASCII A-Z = 65-90
+	a-z = 97-122
+
+
+
+
+
+
+

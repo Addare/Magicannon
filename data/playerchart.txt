@@ -1,0 +1,31 @@
+
+Rachel
+
+20
+2
+2
+2
+1
+rachel_s1.bmp
+3
+1
+2
+3
+
+
+
+
+{[SHEET]}
+
+[namn]
+
+[hp]
+[power]
+[defence]
+[spd]
+[size]
+[spritesheet]
+[antal actionsekvenser]
+[sekvensnr]
+[sekvensnr 2]
+...

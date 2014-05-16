@@ -1,0 +1,33 @@
+rock43
+weird_rock.bmp
+0
+0
+2
+1 1
+1 0
+
+spikes88
+spike.bmp
+0
+0
+2
+1 1
+1 1
+
+
+
+
+
+
+
+
+
+
+
+{[SHEET]}
+
+[Objectname]
+[Argument1]
+[Argument2]
+[Size]
+[Sheet with Triggertype]

@@ -1,0 +1,4 @@
+
+POISON1
+effect_player_mixed.bmp
+401

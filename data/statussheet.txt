@@ -1,0 +1,43 @@
+
+poison1
+POISON1
+15
+1
+DAMAGE 2 60
+0
+
+
+poison_seed
+PSN_SEED
+10
+1
+SLOW 10
+1
+CREATE_STATUS psnburst poison1
+
+
+{[SHEET]}
+
+
+[name]
+[effectname]
+[duration]
+[nr of conditions]
+[condition name] [param 1] [param2]...
+[condition name2]...
+[nr of end effects]
+[end effect name] [param1] [param2]...
+[end effect name2]...
+
+
+coditions + arguments
+
+DAMAGE [Damage per tick] [frames between ticks]
+
+
+
+
+
+
+
+
